@@ -18,8 +18,8 @@ MAIL_PASSWORD = 'your mail password'
 SENDER_NAME = u'Zabbix Alert'
 
 # Mail Server
-SMTP_SERVER = 'smtp.gmail.com'
-SMTP_PORT = 587
+SMTP_SERVER = 'smtp.googlemail.com'
+SMTP_PORT = 465
 # TLS
 SMTP_TLS = True
 
